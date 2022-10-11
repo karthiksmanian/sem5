@@ -66,8 +66,6 @@ class UserBO{
 }
 
 public class q1 {
-
-
     public static void main(String[] args) {
         UserBO u = new UserBO();
         try {
